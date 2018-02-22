@@ -4,7 +4,7 @@ using namespace std;
 int main() {
 
 
-	Double emp;
+	double emp;
 	double horasextras;
 	double horastrabajadas;
 	double salario;
