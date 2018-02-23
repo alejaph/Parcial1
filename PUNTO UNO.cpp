@@ -2,9 +2,8 @@
 
 using namespace std;
 int main() {
-
-
-	double emp;
+        //Salario y tarifa extra de un empleado.
+        double emp;
 	double horasextras;
 	double horastrabajadas;
 	double salario;
