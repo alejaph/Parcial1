@@ -9,7 +9,6 @@ int main() {
 	double salario;
 	double tarifaextra;
 	double tarifa;
-	// Salario y tarifa de un trabajador.
 	cout << "Ingrese nombre del empleado" << endl;
 	cin >> emp;
 	cout << "Ingrese numero de horas trabajadas" << endl;
