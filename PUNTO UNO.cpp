@@ -22,7 +22,7 @@ int main() {
 		horasextras = horastrabajadas-40;
 		salario = tarifaextra*horasextras+horastrabajadas*tarifa;
 	}
-	cout << "Empleado: " << emp << " Su salario es:    " << salario << " Su tarifapor hora es:   " << tarifa << " Su tarifa extra es: " << tarifaextra<<  endl;
+	cout << "Empleado: " << emp << " Su salario es:    " << salario << " Su tarifa por hora es:   " << tarifa << " Su tarifa extra es: " << tarifaextra<<  endl;
 	return 0;
 }
 
