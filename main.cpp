@@ -6,10 +6,8 @@ int main() {
 	float cantidad;
 	int horas;
 	int minutos;
-	float res;
 	int segundos;
-
-	cout << "ingrese tiempo en segundos" << endl;
+        cout << "ingrese tiempo en segundos" << endl;
 	cin >> cantidad;
 	horas = (cantidad/3600);
 	cantidad = cantidad/3600;
